@@ -1,4 +1,4 @@
-scanLanMarcin
+scanLan
 =============
 
-scanLan moje części 
+Android app for scaning network
